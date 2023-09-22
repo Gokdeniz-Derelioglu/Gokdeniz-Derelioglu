@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gokdeniz-Derelioglu
+- 👋 Hi, I’m Gökdeniz Derelioğlu
 - 👀 I’m interested in artificial intelligence, machine learning, and data science
 - 🌱 I’m currently learning programming and algorithms
 - 💞️ I’m looking to collaborate on (nothing as of now)
