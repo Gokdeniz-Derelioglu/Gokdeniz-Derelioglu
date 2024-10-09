@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gökdeniz Derelioğlu
-- 👀 I’m interested in artificial intelligence, machine learning, and data science
-- 🌱 I’m currently learning programming and algorithms
-- 💞️ I’m looking to collaborate on (nothing as of now)
+- 👀 I’m interested in artificial intelligence, machine learning, bioinformatics and data science
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on anything that aligns with the interests I mentioned.
 - 📫 How to reach me: derelioglugokdeniz@gmail.com
 
 <!---
